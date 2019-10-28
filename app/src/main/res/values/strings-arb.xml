@@ -1,0 +1,168 @@
+<resources>
+
+    <string name="Login">تسجيل الدخول</string>
+    <string name="Patientpassword">كلمة سر المريض</string>
+    <string name="Patientnumber">هاتف المريض</string>
+    <string name="Duration">المدة الزمنية</string>
+    <string name="tablets">قرص دواء</string>
+    <string name="Name">الإسم</string>
+    <string name="Thebloodtypeis">فصيلة الدم هي:</string>
+    <string name="Diabeteschart">مخطط السكري</string>
+    <string name="Pressurechart">مخطط الضغط</string>
+    <string name="NewPassword">كلمة سر جديدة</string>
+    <string name="BasicInformation">معلومات اساسية</string>
+    <string name="Drugs">الدواء</string>
+    <string name="Logout">تسجيل خروج</string>
+    <string name="Feedback">Feedback</string>
+    <string name="Setting">الإعدادات</string>
+    <string name="Favorite">المفضلة</string>
+    <string name="Syndrome">تزامن أعراض المرض</string>
+    <string name="AddCategory">إضافة فئة</string>
+    <string name="Medicine">دواء</string>
+    <string name="Title">عنوان</string>
+    <string name="labName">اسم التحليل</string>
+    <string name="Pressuerlevel">مستوى الضغط:</string>
+    <string name="Sugarlevel">مستوى السكر:</string>
+    <string name="app_name">MedEasy</string>
+    <string name="title_activity_syndr">SyndrActivity</string>
+    <string name="Alarm">إنذار</string>
+    <string name="please_select_time">يرجى اختيار الوقت</string>
+    <string name="st">السبت</string>
+    <string name="sun">الاحد</string>
+    <string name="mon">الاثنين</string>
+    <string name="tue">الثلاثاء</string>
+    <string name="wed">الاربعاء</string>
+    <string name="thu">الخميس</string>
+    <string name="fri">الجمعة</string>
+    <string name="Save">حفظ</string>
+    <string name="back">عودة</string>
+    <string name="save">حفظ</string>
+    <string name="Cancel">إلغاء</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="DM">DM</string>
+    <string name="Smoking">Smoking</string>
+    <string name="assessmentSheet">Assessment Sheet</string>
+    <string name="medicineSheet">Medicine Sheet</string>
+    <string name="YourComplaint">Your Complaint</string>
+    <string name="IHDriskFactor">IHD risk Factor :</string>
+    <string name="hypertension">Hypertension</string>
+    <string name="dyslipidemia">Dyslipidemia</string>
+    <string name="pastHistory">Past History</string>
+    <string name="presentHistory">Present History</string>
+    <string name="goToprofile">Go To Profile Patient</string>
+    <string name="generalLook">General Look</string>
+    <string name="normal">Normal</string>
+    <string name="pale">Pale</string>
+    <string name="cyanosed">Cyanosed</string>
+    <string name="sweaty">Sweaty</string>
+    <string name="next">التالى</string>
+    <string name="pastHisory">Your Past History</string>
+    <string name="male">ذكر</string>
+    <string name="female">أنثى</string>
+    <string name="doctor">طبيب</string>
+    <string name="patient">مريض</string>
+    <string name="MedEasy">MedEasy</string>
+
+    <!--<        LoginActivity      >-->
+    <string name="loginActivity_userName">رقم هاتفك</string>
+    <string name="loginActivity_userPassword">كلمة السر</string>
+    <string name="loginActivity_forgetPassword">هل نسيت كلمة المرور؟</string>
+    <string name="loginActivity_loginButton">تسجيل الدخول</string>
+    <string name="loginActivity_signUp">  غير مسجل؟ سجل   </string>
+
+    <!--<        LoginActivity.ـJava      >-->
+    <string name="loginActivityJava_Login">تسجيل الدخول</string>
+
+    <!--*****************************************************************************************-->
+
+
+    <!--<        signUpActivity      >-->
+    <string name="signUpActivity_userName">اسم المستخدم</string>
+    <string name="signUpActivity_userPhone">رقم هاتفك</string>
+    <string name="signUpActivity_userYearOfBirth">سنة الميلاد</string>
+    <string name="signUpActivity_userAddress">عنوانك</string>
+    <string name="signUpActivity_userOccupation">عملك</string>
+    <string name="signUpActivity_userFamilyHistoryLink">Family History Link</string>
+    <string name="signUpActivity_userStatus">حالتك الاجتماعية</string>
+    <string name="signUpActivity_userWeight">وزنك</string>
+    <string name="signUpActivity_userHeight">طولك</string>
+    <string name="signUpActivity_userDoctorID">Your Doctor ID</string>
+    <string name="signUpActivity_userSpecialization">التخصص الخاص بك</string>
+    <string name="signUpActivity_userPassword">كلمة السر</string>
+    <string name="signUpActivity_signUpButton">سجل</string>
+
+
+    <!--<        signUpActivity._Java      >-->
+
+
+    <!--*****************************************************************************************-->
+
+    <!--<        HomeToolbar      >-->
+    <string name="homeToolbar_userName">احمد محمد</string>
+    <string name="homeToolbar_Medicine">دواء</string>
+    <string name="homeToolbar_AddCategory">إضافة فئة</string>
+    <string name="homeToolbar_Alarm">إنذار</string>
+    <string name="homeToolbar_Syndrome">تزامن أعراض المرض</string>
+    <string name="homeToolbar_Favorite">المفضلة</string>
+    <string name="homeToolbar_Setting">الإعدادات</string>
+    <string name="homeToolbar_Feedback">Feedback</string>
+    <string name="homeToolbar_Logout">تسجيل خروج</string>
+
+    <!--*****************************************************************************************-->
+
+    <!--<        Toast massages      >-->
+    <string name="Toast_needPhone">أدخل رقم هاتفك من فضلك</string>
+    <string name="Toast_needPassword">أدخل رقم كلمة المرور من فضلك</string>
+    <string name="Toast_needName">أدخل اسمك من فضلك</string>
+    <string name="Toast_needYearOfBirth">أدخل عام ميلادك من فضلك</string>
+    <string name="Toast_needAddress">أدخل عنوانك من فضلك</string>
+    <string name="Toast_needOccupation">أدخل مهنتك من فضلك</string>
+    <string name="Toast_needWeight">أدخل وزنك من فضلك</string>
+    <string name="Toast_needHeight">أدخل طولك من فضلك</string>
+    <string name="Toast_needFamilyHistoryLink">Enter Your Family History Link  please</string>
+
+
+    <string name="Toast_wrongPhonOrPassword">الهاتف أو كلمة المرور غير صحيحة</string>
+    <string name="Toast_PhoneAreUesd">الهاتف قيد الاستخدام بالفعل من قبل مستخدم آخر.</string>
+    <string name="Toast_RegisterFail">فشل التسجيل</string>
+    <string name="Toast_RegisterSuccessfull">نجح التسجيل</string>
+    <string name="Toast_invalidPhone">رقم الهاتف غير صالح</string>
+
+    <!--*****************************************************************************************-->
+
+    <!--<        CustomDialog massages     >-->
+    <string name="namePositiveButton">تأكيد</string>
+    <string name="nameNegativeButton">إلغاء</string>
+
+
+    <!--*****************************************************************************************-->
+    <!--<        ProgressDialog massages     >-->
+    <string name="ProgressDialog_w8">جاري التحميل يرجى الانتظار ...</string>
+
+
+    <!--*****************************************************************************************-->
+    <!-- home Activity Bottom nav -->
+    <string name="pre">وصفات الطبيب</string>
+    <string name="Profile">الملف الشخصي</string>
+    <string name="Home">الصفحة الرئيسية</string>
+
+
+    <!--*****************************************************************************************-->
+    <!-- home Activity Bottom nav -->
+    <string name="medicalHistory">تاريخ طبى</string>
+
+
+    <!--*****************************************************************************************-->
+    <!-- Doctor Medicine Section -->
+    <string name="AddMedinice">أضف دواء</string>
+    <string name="PerDay">في اليوم</string>
+    <string name="Dose"> جرعة</string>
+    <string name="StartTime"> وقت البدء</string>
+    <string name="EndTime"> وقت النهاية</string>
+    <string name="Commit">commit</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
